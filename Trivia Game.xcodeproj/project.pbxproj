@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		AB60A9F7308C0676006F8739 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB60A9F6308C0676006F8739 /* CardView.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		AB60A9E4308AAC5F006F8739 /* Trivia Game.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Trivia Game.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AB60A9F6308C0676006F8739 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +37,7 @@
 		AB60A9DB308AAC5F006F8739 = {
 			isa = PBXGroup;
 			children = (
+				AB60A9F6308C0676006F8739 /* CardView.swift */,
 				AB60A9E6308AAC5F006F8739 /* Trivia Game */,
 				AB60A9E5308AAC5F006F8739 /* Products */,
 			);
@@ -119,6 +125,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AB60A9F7308C0676006F8739 /* CardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
